@@ -27,13 +27,11 @@ With [skills.sh](https://skills.sh):
 
 ```bash
 # both skills
-npx skills add OWNER/handoff-skill
+npx skills add logical-tech/handoff-skill
 
 # or just one
-npx skills add OWNER/handoff-skill --skill handoff
+npx skills add logical-tech/handoff-skill --skill handoff
 ```
-
-Replace `OWNER` with the GitHub account/org you publish this repo under.
 
 ## Use
 
